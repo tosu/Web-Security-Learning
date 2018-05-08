@@ -70,7 +70,7 @@
 + [MongoDB安全 – PHP注入检测](http://www.mottoin.com/94341.html)
 
 ### 技巧
-+ [我的WafBypass之道（SQL注入篇）](https://xianzhi.aliyun.com/forum/read/349.html)
++ [我的WafBypass之道（SQL注入篇）](https://xianzhi.aliyun.com/forum/attachment/big_size/wafbypass_sql.pdf)
 + [Bypass 360主机卫士SQL注入防御](http://www.cnblogs.com/xiaozi/p/7275134.html)
 + [SQL注入之骚姿势小记](https://mp.weixin.qq.com/s/ORsciwsBGQJhFdKqceprSw)
 + [CTF比赛中SQL注入的一些经验总结 ](http://www.freebuf.com/articles/web/137094.html)
